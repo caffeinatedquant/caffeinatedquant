@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @caffeinatedquant
+- 👀 I’m interested in ML and quant
+- 🌱 I’m currently learning Python implementations of standard statistical and ML/DL methods (Markov decision processes, ensemble methods, clustering, mixture models and topic modeling, NLP,  and reinforcement learning.
+- 💞️ I’m looking to collaborate on low lavel systme design, quant research, alpha gen, quant dev.
+- 📫 reach me here - https://www.linkedin.com/in/aarav-saw-2002docks/
+- 😄 Pronouns: dank quant
+- ⚡ Fun fact: she can be wrong but maths can't.
