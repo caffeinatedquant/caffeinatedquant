@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caffeinatedquant
+- 👋 Hi, I’m Aarav
 - 👀 I’m interested in ML and quant
 - 🌱 I’m currently learning Python implementations of standard statistical and ML/DL methods (Markov decision processes, ensemble methods, clustering, mixture models and topic modeling, NLP,  and reinforcement learning.
 - 💞️ I’m looking to collaborate on low lavel systme design, quant research, alpha gen, quant dev.
